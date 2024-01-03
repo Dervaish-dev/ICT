@@ -7,33 +7,6 @@
   <img src="![6](https://github.com/Dervaish-dev/ICT/assets/127773397/19e69fd1-3039-4106-b60b-ca4af6cbfa0e)" />
 </h1>
 
-<h2 align="center">Your Project Title</h2>
+<h2 align="ART ALLEY">Your Project Title</h2>
 
-<blockquote align="center">Brief description or tagline for your project.</blockquote>
 
-## Table of Contents
-- [Setup](#setup)
-- [Screenshots](#screenshots)
-- [License](#license)
-
-## Setup
-
-Run the following commands from your terminal:
-
-1. `git clone https://github.com/Dervaish-dev/ICT.git` to clone this repository.
-2. Additional setup steps...
-
-## Screenshots
-
-<table width="100%">
-  <tbody>
-    <tr>
-      <td width="1%"><img src="https://github.com/Dervaish-dev/ICT/assets/127773397/da7ecddc-d8b7-4497-aa17-f0667c6282b1" /></td>
-      <!-- Add more images as needed -->
-    </tr>
-  </tbody>
-</table>
-
-## LICENSE
-
-[MIT-licensed](https://github.com/Dervaish-dev/ICT/blob/main/LICENSE).
